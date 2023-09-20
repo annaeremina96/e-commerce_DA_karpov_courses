@@ -1,9 +1,9 @@
 # karpov_courses_data_analyst
-Work completed as part of the Data Analyst course on the platform karpov.courses
+Проект был реализован в рамках курса Дата Аналитик на платформе karpov.courses.
 
 # First Project
 
-Проект e-commerce: вариант 1 
+Проект e-commerce: вариант 1.
 Продакт-менеджер Василий попросил вас проанализировать совершенные покупки и ответить на следующие вопросы:
 
 1. Сколько у нас пользователей, которые совершили покупку только один раз? (7 баллов) 
