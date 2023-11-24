@@ -1,4 +1,4 @@
-# karpov_courses_data_analyst_e_commerce_project
+# e_commerce_project
 Проект был реализован в рамках курса Дата Аналитик на платформе [karpov.courses.](https://karpov.courses/)
 63/70 баллов
 
